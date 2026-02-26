@@ -1,4 +1,4 @@
-# Outil LZMA (Python)
+# Outil LZMA/LZMA2 (Python)
 
 Petit programme CLI pour compresser/decompresser des fichiers en **LZMA/XZ**.
 
